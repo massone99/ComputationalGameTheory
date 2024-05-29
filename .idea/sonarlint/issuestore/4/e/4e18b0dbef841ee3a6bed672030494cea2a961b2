@@ -1,0 +1,45 @@
+
+˜	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Ç×Øûÿÿÿÿ8¨‹‘Üù1J$2d62dd01-d0e1-41aa-b00c-426e7e85a98e
+˜	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êŠ˜úÿÿÿÿ8¨‹‘Üù1J$b40bb870-6733-447f-916a-19ea950bb11e
+”	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜èÂ¢8¨‹‘Üù1J$479eb2d7-37f4-45ba-b7b1-954e48619949
+”	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ðâ»‰8¨‹‘Üù1J$d0fbfc43-c621-4f42-903d-ff205c581c13
+™	java:S117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Åüÿÿÿÿ8©‹‘Üù1J$59221b7f-0e59-439b-b662-1521706b2533
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¶“«Åÿÿÿÿÿ8©‹‘Üù1J$bab96718-37c5-485d-b838-5247e26a5a25
+—
+java:S2095¸"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Ýâ«òûÿÿÿÿ8²Œ‘Üù1J$ba0dad86-4645-4f83-8128-077a7922b9b8
+™
+java:S2095¹"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(ˆÔ§ðþÿÿÿÿ8²Œ‘Üù1J$cd0db4ef-9cda-49d1-851a-12c4cab0a619
+~
+java:S1854="6Remove this useless assignment to local variable "U2".(êŠ˜úÿÿÿÿ8µŒ‘Üù1J$da8d2620-1a91-450a-9a93-0a1c0de1a789
+~
+java:S1854<"6Remove this useless assignment to local variable "U1".(„Ç×Øûÿÿÿÿ8µŒ‘Üù1J$03e89539-4596-4860-a1e3-abc3ef55f99a
+„
+java:S1854;"<Remove this useless assignment to local variable "labelsP2".(½™›Ñþÿÿÿÿ8µŒ‘Üù1J$d557808b-4de2-48aa-8714-cc2383d2a2eb
+
+java:S1854:"<Remove this useless assignment to local variable "labelsP1".(Ú²‰þ8µŒ‘Üù1J$d283e169-2772-4915-a205-433c2e64a2fb
+~
+java:S18546"6Remove this useless assignment to local variable "n2".(ù‚ž½ûÿÿÿÿ8µŒ‘Üù1J$0a2d5f1b-9dfc-4d70-9616-79ca5fe11f77
+y
+java:S18545"6Remove this useless assignment to local variable "n1".(Ó´¸¿8µŒ‘Üù1J$404053fd-eef0-433b-b3f6-bca28e59effa
+†
+java:S1854-"CRemove this useless assignment to local variable "mixedStrategyP1".(Ò¹’â8µŒ‘Üù1J$bade507d-6e4b-4f77-a9cf-2256d4111f40
+w
+java:S1481-"4Remove this unused "mixedStrategyP1" local variable.(Ò¹’â8·Œ‘Üù1J$b8cc12a1-6856-4096-bfbd-b1a933e8d8ef
+j
+java:S14815"'Remove this unused "n1" local variable.(Ó´¸¿8¸Œ‘Üù1J$39ba7b50-8a06-4ba2-8590-d6a505c1c02d
+o
+java:S14816"'Remove this unused "n2" local variable.(ù‚ž½ûÿÿÿÿ8¸Œ‘Üù1J$191fa6ac-dc50-4b9f-aaf2-41dcb55d37fa
+p
+java:S1481:"-Remove this unused "labelsP1" local variable.(Ú²‰þ8¸Œ‘Üù1J$6b3bdbda-0d82-44e4-90e7-e35310433c03
+u
+java:S1481;"-Remove this unused "labelsP2" local variable.(½™›Ñþÿÿÿÿ8¸Œ‘Üù1J$e868c697-6ea4-4605-a237-4dfa84d155ad
+o
+java:S1481<"'Remove this unused "U1" local variable.(„Ç×Øûÿÿÿÿ8¸Œ‘Üù1J$83852b02-dd63-4b2a-8590-8f7f4f2e173c
+o
+java:S1481="'Remove this unused "U2" local variable.(êŠ˜úÿÿÿÿ8¹Œ‘Üù1J$5ffc040a-2f7a-4f12-9bb9-e5ca9f9f12d3
+l
+java:S1659™"(Declare "childNode2" on a separate line.(ß¨üö8¾Œ‘Üù1J$296bb530-2c15-484f-b353-02cac40ce053
+c
+java:S1659š"Declare "i" on a separate line.(Ìóë•8¾Œ‘Üù1J$61c18ef5-1f64-4395-8a40-8764e57b9b26
+€
+java:S1144i">Remove this unused private "getInducedLinearProblemP1" method.(þ½’}8ÅŒ‘Üù1J$cb21540b-c92b-447e-b6a1-23432b1b70f1

@@ -1,0 +1,22 @@
+
+´
+java:S1319Œ"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ó”¬²8‘ÙŒù1J$a73401d7-35d1-4942-820e-8b9316e65591
+˜	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÆüËùÿÿÿÿ8‘ÙŒù1J$7f1d31aa-d841-48b6-bc3e-40e108b3741c
+˜	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÆüËùÿÿÿÿ8…°òÚù1J$a358b00a-1c58-4d35-b0dd-e89ef9f85349
+e
+java:S1643Ô"Use a StringBuilder instead.(İœÿÿÿÿÿ8’ÙŒù1J$72b54d9b-db8f-4308-b3a2-30366b8e904f
+’
+java:S1104"OMake ids a static final constant or non-public and provide accessors if needed.(Æ«Ÿ‰8’ÙŒù1J$b3ea83d8-8647-480c-a238-1f657b5dfa1f
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óüÜµûÿÿÿÿ8’ÙŒù1J$699367c6-80a5-4881-b5f7-8563120c42d7
+‰
+java:S2184ª"ECast one of the operands of this subtraction operation to a "double".(é „³8•ÙŒù1J$e3e5aea1-ce01-4cc8-9d6c-a5a2eb7a6512
+
+java:S2184°"ECast one of the operands of this subtraction operation to a "double".(®„¯Éúÿÿÿÿ8•ÙŒù1J$33c96cd3-cd51-4c1e-a86f-2a8bcc1e64e1
+j
+java:S1125("'Remove the unnecessary boolean literal.(€±ê8µ‘ÙŒù1J$671c4e3c-2e37-45c2-87b7-9331895a694c
+k
+java:S1125M"(Remove the unnecessary boolean literals.(İ£øª8Ô‘ÙŒù1J$c7cc6439-f9f3-45f9-a7f8-ea4bfcddbc1a
+l
+java:S1940~")Use the opposite operator (">=") instead.(á°³¹8ã‘ÙŒù1J$27622aaa-9e62-44a0-a6b3-0d5dded79424
+€
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ş‘ÙŒù1J$183b6a13-459e-47fe-bb38-6fa453a6b5c6

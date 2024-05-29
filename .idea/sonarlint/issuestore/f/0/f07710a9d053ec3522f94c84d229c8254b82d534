@@ -1,0 +1,10 @@
+
+s	java:S117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Åüÿÿÿÿ8ÿƒª¤û1
+c
+java:S1854›"@Remove this useless assignment to local variable "playComplete".(ãÕŒÕüÿÿÿÿ8ü„ª¤û1
+E
+java:S16595"(Declare "childNode2" on a separate line.(‡òİí8ı„ª¤û1
+<
+java:S16597"Declare "i" on a separate line.(Ìóë•8ş„ª¤û1
+:
+java:S1116"Remove this empty statement.(ä¼‡«8‚…ª¤û1

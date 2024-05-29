@@ -1,0 +1,24 @@
+
+´
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(µé†é8±¼ëÚù1J$8f18aa5e-ac89-4cb0-8aa8-28ce4db71e61
+˜	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÆüËùÿÿÿÿ8²¼ëÚù1J$adb9a65f-5961-4fb9-83cd-75f911783085
+˜	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÆüËùÿÿÿÿ8ŞØóÚù1J$07e9ee6a-bdc0-4388-a949-feeba5727ba1
+e
+java:S1643¼"Use a StringBuilder instead.(İœÿÿÿÿÿ8³¼ëÚù1J$e546cfa0-6923-425d-af52-2eee8f7feaa1
+’
+java:S1104"OMake ids a static final constant or non-public and provide accessors if needed.(Æ«Ÿ‰8³¼ëÚù1J$52840dcc-f6a1-48c3-86d2-07553417d426
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ïÀÊ‡ıÿÿÿÿ8´¼ëÚù1J$f16d33e6-f949-4bd3-9e3c-5a79ca3e41f0
+c
+java:S2184ø"ECast one of the operands of this subtraction operation to a "double".(é „³8™íóÚù1
+h
+java:S2184ş"ECast one of the operands of this subtraction operation to a "double".(®„¯Éúÿÿÿÿ8™íóÚù1
+
+java:S2095r"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ƒ£¢†8ö¾ëÚù1J$eb952e3c-50ec-4b91-9b0b-5b0098857dc8
+j
+java:S1125("'Remove the unnecessary boolean literal.(€±ê8¨¿ëÚù1J$688fa005-b598-44fc-827c-eb2aa28286a5
+k
+java:S1125M"(Remove the unnecessary boolean literals.(İ£øª8Î¿ëÚù1J$9aff1aba-acdb-4871-83ae-da04c81be9b3
+G
+java:S1940İ")Use the opposite operator (">=") instead.(á°³¹8ÉğóÚù1
+€
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8¬íÚù1J$d24a967d-14c4-4bfe-85b2-d67b0a767a16

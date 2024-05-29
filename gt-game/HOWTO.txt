@@ -1,0 +1,2 @@
+# Command to run the project
+java '-Duser.language=en' '-Duser.country=EN' -cp 'bin\;lib\*' Main

@@ -1,0 +1,64 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜èÂ¢8ì÷Ô¨ü1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğâ»‰8ì÷Ô¨ü1
+r	java:S117l"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Ç×Øûÿÿÿÿ8ì÷Ô¨ü1
+r	java:S117m"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êŠ˜úÿÿÿÿ8ì÷Ô¨ü1
+s	java:S117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Åüÿÿÿÿ8ì÷Ô¨ü1
+n	java:S117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜èÂ¢8ì÷Ô¨ü1
+n	java:S117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğâ»‰8ì÷Ô¨ü1
+?
+java:S1643“"Use a StringBuilder instead.(İœÿÿÿÿÿ8ì÷Ô¨ü1
+q
+java:S1104¯"NMake U1 a static final constant or non-public and provide accessors if needed.(ÚÍÕÑüÿÿÿÿ8í÷Ô¨ü1
+q
+java:S1104°"NMake U2 a static final constant or non-public and provide accessors if needed.(±Ÿ³üÿÿÿÿ8í÷Ô¨ü1
+r
+java:S1104±"TMake labelsP1 a static final constant or non-public and provide accessors if needed.(ÄôûŠ8í÷Ô¨ü1
+r
+java:S1104²"TMake labelsP2 a static final constant or non-public and provide accessors if needed.(íÔ‚8í÷Ô¨ü1
+l
+java:S2095®"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(¹ĞŸ8½úÔ¨ü1
+r
+java:S2095·"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(¾Å¨Îûÿÿÿÿ8½úÔ¨ü1
+s
+java:S2095¯"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(ˆÔ§ğşÿÿÿÿ8½úÔ¨ü1
+j
+java:S2095¶"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(˜‹ïS8½úÔ¨ü1
+E
+java:S1659"(Declare "childNode2" on a separate line.(ß¨üö8ÃúÔ¨ü1
+<
+java:S1659"Declare "i" on a separate line.(Ìóë•8ÃúÔ¨ü1
+Z
+java:S1854y"8Remove this useless assignment to local variable "keys".(ÿõ¯Üúÿÿÿÿ8ÅúÔ¨ü1
+^
+java:S1854w"<Remove this useless assignment to local variable "iterator".(¹Ñ—ùÿÿÿÿ8ÅúÔ¨ü1
+d
+java:S1854s"BRemove this useless assignment to local variable "childrenNodes1".(€èÁ…ùÿÿÿÿ8ÆúÔ¨ü1
+X
+java:S1854m"6Remove this useless assignment to local variable "U2".(êŠ˜úÿÿÿÿ8ÆúÔ¨ü1
+X
+java:S1854l"6Remove this useless assignment to local variable "U1".(„Ç×Øûÿÿÿÿ8ÆúÔ¨ü1
+T
+java:S1854N"7Remove this useless assignment to local variable "nfg".(èÔ†ÿ8ÆúÔ¨ü1
+E
+java:S1481N"(Remove this unused "nfg" local variable.(èÔ†ÿ8ÈúÔ¨ü1
+I
+java:S1481l"'Remove this unused "U1" local variable.(„Ç×Øûÿÿÿÿ8ÉúÔ¨ü1
+I
+java:S1481m"'Remove this unused "U2" local variable.(êŠ˜úÿÿÿÿ8ÊúÔ¨ü1
+U
+java:S1481s"3Remove this unused "childrenNodes1" local variable.(€èÁ…ùÿÿÿÿ8ÊúÔ¨ü1
+O
+java:S1481w"-Remove this unused "iterator" local variable.(¹Ñ—ùÿÿÿÿ8ÊúÔ¨ü1
+K
+java:S1481y")Remove this unused "keys" local variable.(ÿõ¯Üúÿÿÿÿ8ËúÔ¨ü1
+H
+java:S3457³"%String contains no format specifiers.(õ½¢¿ûÿÿÿÿ8İúÔ¨ü1
+F
+java:S1659Î"(Declare "childNode2" on a separate line.(ß¨üö8çúÔ¨ü1
+=
+java:S1659Ï"Declare "i" on a separate line.(Ìóë•8çúÔ¨ü1
+o	java:S116¯"MRename this field "U1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÍÕÑüÿÿÿÿ8óúÔ¨ü1
+o	java:S116°"MRename this field "U2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Ÿ³üÿÿÿÿ8óúÔ¨ü1
+W
+java:S1144"9Remove this unused private "printEquationsMatrix" method.(²İŒ»8öúÔ¨ü1

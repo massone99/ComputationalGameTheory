@@ -1,0 +1,45 @@
+
+Ž
+java:S1319¼"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ó”¬²8Ú‹ÙŒù1
+l
+java:S1104"OMake ids a static final constant or non-public and provide accessors if needed.(Æ«Ÿ‰8ê‹ÙŒù1
+h
+java:S2184ç"ECast one of the operands of this subtraction operation to a "double".(Ò‰Š´þÿÿÿÿ8ú‹ÙŒù1
+c
+java:S2184ô"ECast one of the operands of this subtraction operation to a "double".(ÝõžÕ8ú‹ÙŒù1
+i
+java:S18545"GRemove this useless assignment to local variable "allCoalitionsLabels".(æòãõÿÿÿÿÿ8‚ŽÙŒù1
+W
+java:S1854@":Remove this useless assignment to local variable "payoff".(Æ«·È8‚ŽÙŒù1
+W
+java:S1854=":Remove this useless assignment to local variable "labels".(ñå°‘8‚ŽÙŒù1
+e
+java:S18549"CRemove this useless assignment to local variable "binaryCoalition".(‚ÑÆ«ÿÿÿÿÿ8ƒŽÙŒù1
+Z
+java:S14815"8Remove this unused "allCoalitionsLabels" local variable.(æòãõÿÿÿÿÿ8‰ŽÙŒù1
+V
+java:S14819"4Remove this unused "binaryCoalition" local variable.(‚ÑÆ«ÿÿÿÿÿ8‹ŽÙŒù1
+H
+java:S1481="+Remove this unused "labels" local variable.(ñå°‘8ŒŽÙŒù1
+H
+java:S1481@"+Remove this unused "payoff" local variable.(Æ«·È8ŒŽÙŒù1
+G
+java:S1940 ")Use the opposite operator (">=") instead.(á°³¹8±ŽÙŒù1
+g
+java:S1128"JRemove this unused import 'org.apache.commons.math3.optim.PointValuePair'.(³¦ØÅ8ÈŽÙŒù1
+d
+java:S1128"BRemove this unused import 'org.apache.commons.math3.optim.linear'.(ÏÙœšýÿÿÿÿ8ÈŽÙŒù1
+r
+java:S1128"URemove this unused import 'org.apache.commons.math3.optim.nonlinear.scalar.GoalType'.(°‡¸‹8ÈŽÙŒù1
+u
+java:S1128"SRemove this unused import 'scpsolver.constraints.LinearBiggerThanEqualsConstraint'.(¾ÿý¸ÿÿÿÿÿ8ÉŽÙŒù1
+e
+java:S1128"CRemove this unused import 'scpsolver.lpsolver.LinearProgramSolver'.(‡–Ê‘üÿÿÿÿ8ÉŽÙŒù1
+Z
+java:S1128"=Remove this unused import 'scpsolver.lpsolver.SolverFactory'.(¥ù§ø8ÉŽÙŒù1
+_
+java:S1128	"=Remove this unused import 'scpsolver.problems.LinearProgram'.(øÅ…—øÿÿÿÿ8ÉŽÙŒù1
+J
+java:S1068"(Remove this unused "BASE" private field.(¥¢¿îùÿÿÿÿ8ÊŽÙŒù1
+K
+java:S1068")Remove this unused "quota" private field.(ü¨³Àþÿÿÿÿ8ÊŽÙŒù1

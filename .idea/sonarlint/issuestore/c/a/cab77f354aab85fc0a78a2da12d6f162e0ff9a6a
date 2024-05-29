@@ -1,0 +1,20 @@
+
+m	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜èÂ¢8¶şÔ¨ü1
+m	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğâ»‰8¶şÔ¨ü1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(“ìÁú8·şÔ¨ü1
+K
+java:S5411Ø"(Use a primitive boolean expression here.(Æ¯²æûÿÿÿÿ8·şÔ¨ü1
+`
+java:S2184Ù"BCast one of the operands of this addition operation to a "double".(Èİ¨8¸şÔ¨ü1
+`
+java:S2184Ü"BCast one of the operands of this addition operation to a "double".(ºäËæ8¸şÔ¨ü1
+`
+java:S2184á"BCast one of the operands of this addition operation to a "double".(†——8¸şÔ¨ü1
+E
+java:S16597"(Declare "childNode2" on a separate line.(ß¨üö8‚Õ¨ü1
+<
+java:S16598"Declare "i" on a separate line.(Ìóë•8‚Õ¨ü1
+L
+java:S1905’")Remove this unnecessary cast to "double".(ç¬¿¤ıÿÿÿÿ8…Õ¨ü1
+è
+java:S6541"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 92 to 64, Complexity from 19 to 14, Nesting Level from 5 to 2, Number of Variables from 22 to 6.(Àé×Äÿÿÿÿÿ8şÕ¨ü1

@@ -1,0 +1,11 @@
+
+–
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆûÓ¿J$213014d3-e946-4a10-be52-0d11a5acf08f
+
+java:S1450"SRemove the "cont" field and declare it as a local variable in the relevant methods.(ÒûÉŞJ$8e68d01d-a889-4832-a631-d79fe90e7da4
+d
+java:S16599"(Declare "childNode2" on a separate line.(ß¨üöJ$c609d405-ed10-4095-8ec1-fbdbea2c7145
+¼
+java:S1130¤"Remove the declaration of thrown exception 'gametree.GameNodeDoesNotExistException', as it cannot be thrown from method's body.(Ü¶”çJ$9e1fbfe0-ce97-40c9-8288-b79fb3b247b8
+ˆ
+java:S6541"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 104 to 64, Complexity from 24 to 14, Nesting Level from 5 to 2, Number of Variables from 22 to 6.(Àé×ÄÿÿÿÿÿJ$f6513334-17b7-41d7-9124-a4ee75616092

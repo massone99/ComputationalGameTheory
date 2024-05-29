@@ -1,0 +1,11 @@
+
+p
+java:S1104"NMake U1 a static final constant or non-public and provide accessors if needed.(ЪНХСьяяяя8БХФЁь1
+p
+java:S1104"NMake U2 a static final constant or non-public and provide accessors if needed.(ђ±џіьяяяя8ВХФЁь1
+q
+java:S1104"TMake labelsP1 a static final constant or non-public and provide accessors if needed.(ДфыЉ8ВХФЁь1
+q
+java:S1104"TMake labelsP2 a static final constant or non-public and provide accessors if needed.(нФЋ‚8ВХФЁь1
+n	java:S116"MRename this field "U1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ЪНХСьяяяя8ГХФЁь1
+n	java:S116"MRename this field "U2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ђ±џіьяяяя8ГХФЁь1

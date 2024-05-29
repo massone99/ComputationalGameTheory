@@ -1,0 +1,8 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¬´Å–şÿÿÿÿ8êúëƒü1J$abf992f1-c410-442c-8430-bfd48116683a
+
+java:S1450"[Remove the "roundCounter" field and declare it as a local variable in the relevant methods.(ÀÛóœ8¡ºêƒü1J$9373cf8f-e1e1-4c7f-a6a3-e0ae351cf52c
+l
+java:S1659n"$Declare "child2" on a separate line.(àÔÊÿÿÿÿÿ8©ºêƒü1J$cf6b29dd-9f06-42b6-b01c-945e6dd74c90
+
+java:S6541I"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 103 to 64, Complexity from 23 to 14, Nesting Level from 5 to 2, Number of Variables from 21 to 6.(Àé×Äÿÿÿÿÿ8®ºêƒü1J$678cac1b-4fd1-4b4e-94fa-424b3b65f181

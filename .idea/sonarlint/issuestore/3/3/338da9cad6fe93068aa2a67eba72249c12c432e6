@@ -1,0 +1,15 @@
+
+m	java:S117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜èÂ¢8İèÔ¨ü1
+m	java:S117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğâ»‰8İèÔ¨ü1
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Åüÿÿÿÿ8İèÔ¨ü1
+‹
+java:S1488"iImmediately return this expression instead of assigning it to the temporary variable "equationsMatrixP2".(¢Ì©‚øÿÿÿÿ8ŞèÔ¨ü1
+‹
+java:S1488q"iImmediately return this expression instead of assigning it to the temporary variable "equationsMatrixP1".(¬£¨ûÿÿÿÿ8ŞèÔ¨ü1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÔÔ—ùşÿÿÿÿ8ŞèÔ¨ü1
+E
+java:S1659*"(Declare "childNode2" on a separate line.(ß¨üö8çéÔ¨ü1
+E
+java:S1659}"(Declare "childNode2" on a separate line.(ß¨üö8ìéÔ¨ü1
+<
+java:S1659~"Declare "i" on a separate line.(Ìóë•8ìéÔ¨ü1

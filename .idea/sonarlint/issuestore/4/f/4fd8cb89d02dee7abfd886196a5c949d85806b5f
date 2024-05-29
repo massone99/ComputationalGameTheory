@@ -1,0 +1,7 @@
+
+™	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±•ÿúÿÿÿÿÿ8ôâ©¤û1J$03b3830f-e327-4df4-b495-63d472caa4df
+™	java:S117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Åüÿÿÿÿ8…ã©¤û1J$c5fac0ea-dbd1-4daf-a7a8-d80c6b87a344
+¢
+java:S1488¿"YImmediately return this expression instead of assigning it to the temporary variable "x".(ŠÈâ¥ÿÿÿÿÿ8Ï¿³¤û1J$c2251b70-bff5-4b16-9c0b-5f58a47a07fa
+‰
+java:S1854†"@Remove this useless assignment to local variable "playComplete".(ãÕŒÕüÿÿÿÿ8³ã©¤û1J$fab79524-3ebc-48d3-8a2b-785893cd766f

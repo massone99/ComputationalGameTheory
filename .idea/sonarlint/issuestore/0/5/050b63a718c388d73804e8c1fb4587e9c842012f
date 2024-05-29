@@ -1,0 +1,41 @@
+
+r	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Ç×Øûÿÿÿÿ8íÕÔ¨ü1
+r	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êŠ˜úÿÿÿÿ8íÕÔ¨ü1
+n	java:S117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜èÂ¢8íÕÔ¨ü1
+n	java:S117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğâ»‰8îÕÔ¨ü1
+s	java:S117Ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Åüÿÿÿÿ8îÕÔ¨ü1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(”ÉÖ–ÿÿÿÿÿ8îÕÔ¨ü1
+r
+java:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(ˆÔ§ğşÿÿÿÿ8‚×Ô¨ü1
+p
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(İâ«òûÿÿÿÿ8‚×Ô¨ü1
+X
+java:S1854N"6Remove this useless assignment to local variable "U2".(êŠ˜úÿÿÿÿ8ˆ×Ô¨ü1
+X
+java:S1854M"6Remove this useless assignment to local variable "U1".(„Ç×Øûÿÿÿÿ8ˆ×Ô¨ü1
+^
+java:S1854L"<Remove this useless assignment to local variable "labelsP2".(½™›Ñşÿÿÿÿ8ˆ×Ô¨ü1
+Y
+java:S1854K"<Remove this useless assignment to local variable "labelsP1".(Ú²‰ş8ˆ×Ô¨ü1
+X
+java:S1854G"6Remove this useless assignment to local variable "n2".(ù‚½ûÿÿÿÿ8ˆ×Ô¨ü1
+S
+java:S1854F"6Remove this useless assignment to local variable "n1".(Ó´¸¿8ˆ×Ô¨ü1
+D
+java:S1481F"'Remove this unused "n1" local variable.(Ó´¸¿8‹×Ô¨ü1
+I
+java:S1481G"'Remove this unused "n2" local variable.(ù‚½ûÿÿÿÿ8Œ×Ô¨ü1
+J
+java:S1481K"-Remove this unused "labelsP1" local variable.(Ú²‰ş8Œ×Ô¨ü1
+O
+java:S1481L"-Remove this unused "labelsP2" local variable.(½™›Ñşÿÿÿÿ8Œ×Ô¨ü1
+I
+java:S1481M"'Remove this unused "U1" local variable.(„Ç×Øûÿÿÿÿ8Œ×Ô¨ü1
+I
+java:S1481N"'Remove this unused "U2" local variable.(êŠ˜úÿÿÿÿ8×Ô¨ü1
+F
+java:S1659©"(Declare "childNode2" on a separate line.(ß¨üö8“×Ô¨ü1
+=
+java:S1659ª"Declare "i" on a separate line.(Ìóë•8“×Ô¨ü1
+\
+java:S1144‹">Remove this unused private "getInducedLinearProblemP2" method.(Ä¾¾‰8¦×Ô¨ü1

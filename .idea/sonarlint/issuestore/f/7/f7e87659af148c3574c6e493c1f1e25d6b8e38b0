@@ -1,0 +1,43 @@
+
+r	java:S117V"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Ç×Øûÿÿÿÿ8‘ÜÔ¨ü1
+r	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êŠ˜úÿÿÿÿ8‘ÜÔ¨ü1
+n	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜èÂ¢8‘ÜÔ¨ü1
+n	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğâ»‰8‘ÜÔ¨ü1
+s	java:S117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Åüÿÿÿÿ8‘ÜÔ¨ü1
+‹
+java:S1488"iImmediately return this expression instead of assigning it to the temporary variable "equationsMatrixP2".(¢Ì©‚øÿÿÿÿ8’ÜÔ¨ü1
+Œ
+java:S1488‹"iImmediately return this expression instead of assigning it to the temporary variable "equationsMatrixP1".(¬£¨ûÿÿÿÿ8’ÜÔ¨ü1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÔÔ—ùşÿÿÿÿ8“ÜÔ¨ü1
+r
+java:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(ˆÔ§ğşÿÿÿÿ8ˆŞÔ¨ü1
+p
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(İâ«òûÿÿÿÿ8ˆŞÔ¨ü1
+X
+java:S1854W"6Remove this useless assignment to local variable "U2".(êŠ˜úÿÿÿÿ8ŞÔ¨ü1
+X
+java:S1854V"6Remove this useless assignment to local variable "U1".(„Ç×Øûÿÿÿÿ8ŞÔ¨ü1
+^
+java:S1854U"<Remove this useless assignment to local variable "labelsP2".(½™›Ñşÿÿÿÿ8ŞÔ¨ü1
+Y
+java:S1854T"<Remove this useless assignment to local variable "labelsP1".(Ú²‰ş8ŞÔ¨ü1
+X
+java:S1854P"6Remove this useless assignment to local variable "n2".(ù‚½ûÿÿÿÿ8ŞÔ¨ü1
+S
+java:S1854O"6Remove this useless assignment to local variable "n1".(Ó´¸¿8ŞÔ¨ü1
+D
+java:S1481O"'Remove this unused "n1" local variable.(Ó´¸¿8ŞÔ¨ü1
+I
+java:S1481P"'Remove this unused "n2" local variable.(ù‚½ûÿÿÿÿ8ŞÔ¨ü1
+J
+java:S1481T"-Remove this unused "labelsP1" local variable.(Ú²‰ş8ŞÔ¨ü1
+O
+java:S1481U"-Remove this unused "labelsP2" local variable.(½™›Ñşÿÿÿÿ8ŞÔ¨ü1
+I
+java:S1481V"'Remove this unused "U1" local variable.(„Ç×Øûÿÿÿÿ8ŞÔ¨ü1
+I
+java:S1481W"'Remove this unused "U2" local variable.(êŠ˜úÿÿÿÿ8’ŞÔ¨ü1
+F
+java:S1659—"(Declare "childNode2" on a separate line.(ß¨üö8–ŞÔ¨ü1
+=
+java:S1659˜"Declare "i" on a separate line.(Ìóë•8–ŞÔ¨ü1

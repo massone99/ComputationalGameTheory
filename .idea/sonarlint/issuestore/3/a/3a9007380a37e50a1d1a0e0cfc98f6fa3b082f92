@@ -1,0 +1,14 @@
+
+–
+java:S2293¬"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆûÓ¿J$941f96c5-ba9c-4970-b0ac-1cc6ef5a5587
+•
+java:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Õ¾»=J$8875568e-2d6c-4ed1-b8eb-f0b7142dcb47
+’	java:S117Þ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÅüÿÿÿÿJ$531c3d51-9b55-4a21-86b6-98fc1a56632b
+”
+java:S1450"SRemove the "cont" field and declare it as a local variable in the relevant methods.(žƒþ«úÿÿÿÿJ$ab12d13e-442c-4627-acba-e719b64f8913
+[
+java:S1659;"Declare "i" on a separate line.(Ìóë•J$92157ddd-6231-42fe-8311-8b448f8aaf70
+d
+java:S1659>"(Declare "childNode2" on a separate line.(ß¨üöJ$4ed86403-98a6-4365-bbed-e274bbefe231
+ˆ
+java:S6541"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 103 to 64, Complexity from 23 to 14, Nesting Level from 5 to 2, Number of Variables from 21 to 6.(Àé×ÄÿÿÿÿÿJ$94ceb252-0e21-446a-91b2-1cb0f7a7c626

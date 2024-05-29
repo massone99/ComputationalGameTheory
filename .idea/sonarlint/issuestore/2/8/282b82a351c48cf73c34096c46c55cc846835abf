@@ -1,0 +1,20 @@
+
+˜	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÆüËùÿÿÿÿ8Ë’ÙŒù1J$1a4935de-a8d2-414e-a603-231007e60767
+˜	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÆüËùÿÿÿÿ8Ë’ÙŒù1J$acbd4688-d25d-4084-9aea-045712587523
+e
+java:S1643×"Use a StringBuilder instead.(žÝœÿÿÿÿÿ8Í’ÙŒù1J$a2ab98f6-fe82-4801-9719-5242bf02a57b
+’
+java:S1104"OMake ids a static final constant or non-public and provide accessors if needed.(Æ«Ÿ‰8Î’ÙŒù1J$1df7b305-db59-4998-bfe5-a9da3ff90e05
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(€ýî«øÿÿÿÿ8Ï’ÙŒù1J$63e3fb1a-3b20-428c-a2b1-11e1f1f9d5ad
+‰
+java:S2184­"ECast one of the operands of this subtraction operation to a "double".(é „³8Ñ’ÙŒù1J$6e2950e1-f6fa-4310-bc8c-e274db2ec77d
+Ž
+java:S2184³"ECast one of the operands of this subtraction operation to a "double".(®„¯Éúÿÿÿÿ8Ñ’ÙŒù1J$6d633242-983b-494b-8296-03d0fdcac494
+j
+java:S1125)"'Remove the unnecessary boolean literal.(€±Žê8¦–ÙŒù1J$8f207dbd-d594-48a2-97a8-8861629afd32
+k
+java:S1125N"(Remove the unnecessary boolean literals.(Ý£øª8¯–ÙŒù1J$d971d71e-6649-4a70-870f-762865895ef3
+m
+java:S1940’")Use the opposite operator (">=") instead.(á°³¹8¾–ÙŒù1J$aa0ff1cf-10e8-420a-9de1-a50c823f74b3
+€
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8Þ–ÙŒù1J$5c064eab-ffd2-4dd2-8e9f-4afc8940db42

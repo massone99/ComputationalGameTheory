@@ -1,0 +1,10 @@
+
+ˆ	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŒŽú”J$0a9c4001-91e1-42c8-a731-f050bd0eb47f
+š
+java:S1450"YRemove the "roundCount" field and declare it as a local variable in the relevant methods.(°ÓþòýÿÿÿÿJ$a2b7fd18-0d79-4536-b1fe-092f92b3b9a3
+d
+java:S16599"(Declare "childNode2" on a separate line.(ß¨üöJ$ae27229c-4c1c-4d38-9f1c-97f81d0535f4
+¼
+java:S1130¤"Remove the declaration of thrown exception 'gametree.GameNodeDoesNotExistException', as it cannot be thrown from method's body.(ð¤ÐÐJ$07e6317d-1727-45de-8fef-3d5eb4a43cf3
+ˆ
+java:S6541"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 104 to 64, Complexity from 24 to 14, Nesting Level from 5 to 2, Number of Variables from 22 to 6.(Àé×ÄÿÿÿÿÿJ$b44c29ed-0b39-4c40-95be-1faf4e313f76
